@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @angadbawa
-- 👀 I’m interested in Web Development, Blockchain Related Technologies & Data Science 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-angadbawa/angadbawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Machine Learning & Data Science 
+- 🌱 I’m currently learning more about RNNs
+- 💞️ I’m looking to collaborate on Data Science Projects
+- 📫 How to reach me 
+ Linkedin- https://www.linkedin.com/in/angad-bawa-3312661b2/
+ Instagram- https://www.instagram.com/_.angad/
+ Kaggle - https://www.kaggle.com/angadd
